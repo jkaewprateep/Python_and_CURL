@@ -13,6 +13,7 @@ Communication RESTFUL service with Python and CURL
 </br>
 
 🧸💬 We selected to use the CURL command because it is a standard application for communication HTTP, readable messages, and RESTFUL web service protocol as it passed security policy for wide area networks and communication application best practices in many customers and application development recommendations. </br>
+🐑💬 ➰ For saved time and complex test scenarios select a known method for communication when application development of both existing and future protocol support will make your life easier because of the gift from the explorer but not make it a landmine because they are shared resources and widely know, many people will start trying to cheat it as there are more oppotunity. </br>
 
 <p align="center" width="100%">
     <img width="55%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/CURL%20command%20comm.png"> </br>
