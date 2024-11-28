@@ -6,7 +6,8 @@ Communication RESTFUL service with Python and CURL
     <img width="24%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/Curl_command.jpg">
     <img width="19%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/kid_21.jpg">
     <img width="21.5%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/kid_33.jpg"> </br>
-    <b> Communication using CURL command for RESFUL services protocol negotiation and transmittion </b> </br>
+    <b> Communication using CURL command for RESFUL services protocol negotiation and transmission </b> </br>
+    <b> ( Picture from Internet ) </b> </br>
 </p>
 </br>
 </br>
