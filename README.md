@@ -10,3 +10,17 @@ Communication RESTFUL service with Python and CURL
 </p>
 </br>
 </br>
+
+<p align="center" width="100%">
+    <img width="55%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/CURL%20command%20comm.png"> </br>
+    <b> Computing command and parameters </b> </br>
+</p>
+</br>
+</br>
+
+<p align="center" width="100%">
+    <img width="55%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/subprocess.png"> </br>
+    <b> Subprocess execution and JSON data loading </b> </br>
+</p>
+</br>
+</br>
