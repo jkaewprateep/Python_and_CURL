@@ -23,7 +23,7 @@ Communication RESTFUL service with Python and CURL
 </br>
 </br>
 
-🐯💬 Culture-INFO, ```BASIC authen``` used to be a standard secured communication negotiation method now without ```salts message``` they tread as a non-encrypted message. Communication with CTI and IT network devices requires only basic authentication when you can compose them and use basic SHA or target security algorithms to create encryption messages without the requirement of a high-speed computer. Later they need to have indices numbers or slat messages to make them more secure even if they are fast communication inside the organization. I had to challenge this oppotunity and say my opinion the message does not change to make the appliation changed their behaviors and they perform the same actions as they required in the development application scenarios when multiple applications in solution are working with none-secured messages and readable when you use networks traffic monitoring program ( as sample Oracle shifted 4 bytes and the tool known about it ) </br>
+🐯💬 Culture-INFO, ```BASIC authen``` used to be a standard secured communication negotiation method now without ```salts message``` they tread as a non-encrypted message. Communication with CTI and IT network devices requires only basic authentication when you can compose them and use basic SHA or target security algorithms to create encryption messages without the requirement of a high-speed computer. Later they need to have indices numbers or slat messages to make them more secure even if they are fast communication inside the organization. I had to challenge this oppotunity and say my opinion the message does not change to make the appliation change their behaviors and they perform the same actions as they required in the development application scenarios when multiple applications in solution are working with none-secured messages and readable when you use networks traffic monitoring program ( as sample Oracle shifted 4 bytes and the tool known about it ) </br>
 
 <p align="center" width="100%">
     <img width="55%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/subprocess.png"> </br>
@@ -31,6 +31,8 @@ Communication RESTFUL service with Python and CURL
 </p>
 </br>
 </br>
+
+🦁💬 Sub-process and ```shlex``` are used when shlex is used for decorating the CURL command parameters and decorator applications are the applications in the solution that should provide the same information inputs and outputs by modifying the formats with a priority of the message or composed with information table can display, trackable and reversible at least to convert transaction format from their source or different source to the action of users and program. The sub-process is the Python resource manager to executes commands from Python code, this method is controllable and limited number of processes and protection against duplicated port listening because of software application behavior to prevent blocked communication messages ( there is a technique that force applications to search or find of new port communication for priority message called ```duplicated listeners``` ) </br>
 
 ## Method GET ##
 
