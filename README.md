@@ -23,6 +23,8 @@ Communication RESTFUL service with Python and CURL
 </br>
 </br>
 
+🐯💬 Culture-INFO, ```BASIC authen``` used to be a standard secured communication negotiation method now without ```salts message``` they tread as a non-encrypted message. Communication with CTI and IT network devices requires only basic authentication when you can compose them and use basic SHA or target security algorithms to create encryption messages without the requirement of a high-speed computer. Later they need to have indices numbers or slat messages to make them more secure even if they are fast communication inside the organization. I had to challenge this oppotunity and say my opinion the message does not change to make the appliation changed their behaviors and they perform the same actions as they required in the development application scenarios when multiple applications in solution are working with none-secured messages and readable when you use networks traffic monitoring program ( as sample Oracle shifted 4 bytes and the tool known about it ) </br>
+
 <p align="center" width="100%">
     <img width="55%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/subprocess.png"> </br>
     <b> Subprocess execution and JSON data loading </b> </br>
